@@ -1,5 +1,5 @@
 package com.SalinBank.persistence;
 
-public class AccountDAO {
+public class ContaDAO {
 
 }
