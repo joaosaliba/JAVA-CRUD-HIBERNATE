@@ -5,7 +5,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 public class HibernateUtil {
-	private static final String PERSISTENCE_UNIT_NAME = "SalinBank-bd";
+	private static final String PERSISTENCE_UNIT_NAME = "SalinBank";
 	
 	private static EntityManagerFactory factory;
 
