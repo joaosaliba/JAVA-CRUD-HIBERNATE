@@ -22,7 +22,6 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 
 import com.SalinBank.entity.Conta;
-import com.SalinBank.entity.Conta;
 import com.SalinBank.persistence.ContaDAO;
 import com.SalinBank.persistence.ContaDAO;
 import com.SalinBank.persistence.GenericDAO;
